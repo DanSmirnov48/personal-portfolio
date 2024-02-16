@@ -31,12 +31,12 @@ export const projectsData = [
         live: "https://rich-text-editor-gray.vercel.app",
     },
     {
-        title: "Deliciouss Recipes",
-        description:'React recipes app allows users to search and save liked recipes, view detailed info. Comment, review & share recipes and share',
-        tags: ["React", "JavaScript", "Framer", "RESTful API"],
-        imageUrl: "https://utfs.io/f/bdb6abec-b84b-4544-9c9d-5b8c84028e9f-db6am8.JPG",
-        repo: "https://github.com/DanSmirnov48/deliciouss-recipes",
-        live: "https://deliciouss-recipes.herokuapp.com",
+        title: "TechnoTrades",
+        description: "A Full-Stack MERN e-commerce web application built with Node & Vite using TypeScript.",
+        tags: ["React", "TypeScript", "Tailwind", "MongoDB", "MERN", "Node", "Express"],
+        imageUrl: "https://utfs.io/f/6c08a741-999c-49a4-b50c-106b49b03f78-1en6c.JPG",
+        repo: "https://github.com/DanSmirnov48/MERN_Shop",
+        live: "https://techno-trades-b8640249eefb.herokuapp.com",
     },
     {
         title: "PriceWise",
@@ -47,12 +47,12 @@ export const projectsData = [
         live: "https://price-wise-v1f4dw51vfs.vercel.app",
     },
     {
-        title: "MERN E-Commerce",
-        description: "A web application running on Node Backend server with TypeScript and React Vite on the Frontend.",
-        tags: ["React", "TypeScript", "Vite", "Tailwind", "MongoDB"],
-        imageUrl: "https://utfs.io/f/6c08a741-999c-49a4-b50c-106b49b03f78-1en6c.JPG",
-        repo: "https://github.com/DanSmirnov48/MERN_Shop",
-        live: null,
+        title: "Deliciouss Recipes",
+        description: 'React recipes app allows users to search and save liked recipes, view detailed info. Comment, review & share recipes and share',
+        tags: ["React", "JavaScript", "Framer", "RESTful API"],
+        imageUrl: "https://utfs.io/f/bdb6abec-b84b-4544-9c9d-5b8c84028e9f-db6am8.JPG",
+        repo: "https://github.com/DanSmirnov48/deliciouss-recipes",
+        live: "https://deliciouss-recipes.herokuapp.com",
     },
 
 ] as const;
